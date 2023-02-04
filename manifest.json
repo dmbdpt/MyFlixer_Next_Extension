@@ -4,8 +4,7 @@
     "description": "Save Whached Movies and Series on MyFlixer",
     "version": "1.0",
     "action": {
-        "default_popup": "main.html",
-        "default_icon": "icon.png"
+        "default_icon": "30561.avif"
     },
     "content_scripts": [{
         "js": ["scripts/inject.js"],
