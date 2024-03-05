@@ -9,7 +9,7 @@
     "content_scripts": [{
         "js": ["scripts/inject.js"],
         "matches": [
-            "https://myflixer.to/*"
+            "https://myflixer*.to/*"
         ],
         "run_at": "document_idle"
     }]
